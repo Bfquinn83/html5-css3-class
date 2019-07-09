@@ -54,27 +54,18 @@ You will take this band or musisc groups and create a site containing the follow
     - Supporting acts
     - Link out to venue/bar/location/where to buy
 
-### Course Work
+### Course Guide
 
 - Wk 1: Intro/Code Editor
-  - HW: Plan out Site and begin Wire frames
-- Wk 2: HTML Structure
-  - HW: Create and link all pages with links and headers
-- Wk 3: CSS
-  - HW: Set up navigation menu with CSS Styles
-- Wk 4: Formatting
-  - HW: Custom text and images
-- Wk 5: Responsive Web Design
-  - HW: Implement responsive grid system
-- Wk 6: Presentation Prototype
-  - HW: Complete Tour Dates and About Pages
-- Wk 7: Deployment/GitHub, setup hosting and put code on GitHub
-  - HW: Complete Homepage and Discography pages
-- Wk 8: JavaScript & jQuery
-  - HW: Complete Merch Store, Product Detail, and Media pages. Build out any components requiring JavaScript (Mobile Menu, Filter, Sliders, Lightboxes, etc)
+- Wk 2: What is HTML?
+- Wk 3: HTML Deep Dive
+- Wk 4: What is CSS?
+- Wk 5: CSS Deep Dive
+- Wk 6: GitHub and CDNs
+- Wk 7: JavaScript & jQuery
+- Wk 8: HTML 5 Video, Filtering Plugin, and more
   - [Image Share Link](https://drive.google.com/drive/folders/1hUSS0cFo8olYPWZ1Ga0gIcTG8E-409F6?usp=sharing)
-- Wk 9: Deploy Final Site in class
-  - HW: Finalize any remaining final project items
+- Wk 9: Web Hosting & FTP
 - Wk 10: Final Presentation
 
 ### Atom Packages/Themes
