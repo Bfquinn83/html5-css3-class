@@ -10,6 +10,7 @@ p {
 .fun-box {
   color: green;
   background: pink;
+  font-style: italic;
 }
 
 .fun-box.small {
@@ -45,7 +46,6 @@ p {
   margin-bottom: 500px;
   margin-left: auto; */
   /* border: 2px solid green; */
-
   color: white;
   background-color: red;
 }
