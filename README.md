@@ -6,7 +6,7 @@ Instructor e-mail: **steve_fuller@berkeley.edu**
 
 ## Quick Links
 
-- [Syllabus](https://github.com/wsfuller/html5-css3-class/blob/master/class-resources/HTML5%252FCSS3%20Syllabus.pdf)
+- [Syllabus](https://github.com/wsfuller/html5-css3-class/blob/master/class-resources/HTML5-CSS3-Syllabus.pdf)
 - [Course Schedule](#course-schedule)
 - [Course Work](#course-work)
 - [Atom Packages/Themes](#atom-packagesthemes)
