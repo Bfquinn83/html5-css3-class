@@ -2,7 +2,7 @@
 
 Instructor e-mail: **steve_fuller@berkeley.edu**
 
-[Demo Site](https://www.williamsfuller.com/projects/deftones-site/)
+[Demo Site](https://github.com/wsfuller/deftones-final-site)
 
 ## Quick Links
 
