@@ -1,0 +1,446 @@
+/*
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com
+Twitter: @rich_clark
+*/
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+
+/*MY CODE*/
+*{
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  height:100%;
+}
+img {
+  max-width: 100%
+  height:auto;
+}
+
+#container{
+  min-height: 100%;
+}
+
+#main{
+  overflow: auto;
+  padding-bottom: 100px;
+}
+
+#footer{
+  background-color: #000
+  position:relative;
+  height: 100px;
+  margin-top: -100px;
+  clear:
+}
+.logo {
+  float:none;
+  margin-left: 10px;
+  margin-top: 0px;
+  margin-bottom: -160px;
+
+}
+body {
+  background-color: #d8d8d8;
+}
+  nav {
+    width: 100%;
+    height: 140px;
+    background-color:#2d3856;
+
+  }
+
+
+ul{
+  margin-left:243px;
+
+
+}
+
+ul li{
+  list-style: none;
+  display: inline-block;
+  float:center;
+  line-height: 160px;
+
+}
+
+ul li a{
+  text-decoration: none;
+  font-size: 22px;
+  font-family: 'Permanent Marker', cursive;
+  color: #fff;
+  padding:0 100px;
+  text-align:left;
+
+
+}
+ul li a:hover {
+
+  color: #000;
+}
+
+table {
+  width:1500px;
+  align: center;
+}
+
+th {
+  text-align: center;
+}
+
+tr:nth-child(even){
+  background-color: #fff;
+}
+tr:nth-child(odd){
+  background-color: #ddd;
+}
+th, td{
+  padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  text-decoration: none;
+  text-indent:0px;
+  color: #000
+  letter-spacing: normal;
+}
+
+
+td{
+  text-align: center;
+  line-height: 25px;
+
+}
+
+table, th, td{
+  border: 1px solid #000;
+  border-collapse: collapse;
+  margin-top:-10px;
+
+}
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+margin-top: 20px;
+}
+
+.header1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 32px;
+  font-style: normal;
+  text-align:center;
+  text-decoration: underline;
+  color: #000
+  letter-spacing:normal;
+  word-spacing:1px;
+  line-height: 50px;
+  margin-top:1px;
+}
+
+.Grassroots-Record{
+  margin-left: 330px;
+  width:220px;
+  margin-bottom: 50px;
+}
+.three11-Record{
+  margin-left:280px;
+  width:230px;
+  margin-bottom: 30px;
+}
+
+.Soudsystem-Record{
+  margin-left:290px;
+  width:230px;
+  margin-bottom:20px;
+}
+
+
+
+
+
+
+
+
+.splash{
+  width:2000px;
+  height:1000px;
+}
+
+.order{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  text-align:left;
+  text-decoration: none;
+  text-indent:0px;
+  color: #000
+  letter-spacing: normal;
+  word-spacing:1px;
+  line-height: 34px;
+
+}
+.splash{
+  margin-bottom:-20%;
+}
+
+
+
+
+
+
+
+.paragraph {
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 22px;
+font-style: normal;
+text-align:left;
+text-decoration: none;
+text-indent:0px;
+color: #000
+letter-spacing: normal;
+word-spacing:1px;
+line-height: 34px;
+
+}
+
+
+.wrapper{
+  margin: 0 auto;
+}
+.wrapper-paragraph{
+  margin: 0 auto 0 auto;
+  width:1500px;
+}
+
+.img-311-about-tiny{
+  width:300px;
+  margin-right: 20px;
+  margin-top: 10px;
+  float: left;
+}
+.header-Discography {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 32px;
+  font-style: normal;
+  text-align:center;
+  text-decoration: underline;
+  color: #000
+  letter-spacing:normal;
+  word-spacing:1px;
+  line-height: 50px;
+  margin-top:1px;
+  margin-bottom: -15px;
+}
+
+/* gallery styles */
+
+.gallery a {
+  float: left;
+  width:15%;
+  height:150px;
+  margin: 60px auto;
+padding-left: 150px;
+padding-right: 20px;
+margin-bottom: 70px;
+margin-top: 35px;
+
+}
+.header3{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 32px;
+  font-style: normal;
+  text-align:center;
+  text-decoration: underline;
+  color: #000
+  letter-spacing:normal;
+  word-spacing:1px;
+  line-height: 50px;
+  margin-top:50px;
+}
+
+.Amber {
+  float:left;
+  margin-left:85px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.beautiful-disaster{
+  float:left;
+  margin-left:30px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+
+}
+
+.down{
+  float:left;
+  margin-left:40px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+
+}
+
+.Transistor{
+  float:left;
+  margin-left:50px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+
+}
+
+.merch {
+  float: left;
+margin-left: 340px;
+margin-bottom: 30px;
+margin-top: -30px;
+}
+
+.merch-mens{
+  float: left;
+margin-left: 340px;
+margin-bottom: 30px;
+margin-top: -30px;
+
+}
+.merch-Womans{
+  float: left;
+margin-left: 340px;
+margin-bottom: 30px;
+margin-top: -30px;
+
+}
+.merch-Novelty{
+  float: left;
+margin-left: 340px;
+margin-bottom: 30px;
+margin-top: -30px;
+
+}
+
+.Merch-nav{
+  background-color: #d8d8d8;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 22px;
+  font-style: normal;
+  text-decoration: none;
+  text-indent:0px;
+  color: #000
+  letter-spacing: normal;
+  margin-bottom:-10px;
+  margin-left: -33px;
+
+}
+.header5{
+font-family: 'Permanent Marker', cursive;
+font-size: 32px;
+font-style: normal;
+text-align:center;
+text-decoration: underline;
+color: #000
+letter-spacing:normal;
+word-spacing:1px;
+line-height: 50px;
+margin-top:1px;
+margin-bottom: -60px;
+
+}
